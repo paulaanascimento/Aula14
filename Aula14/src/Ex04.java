@@ -18,7 +18,7 @@ public class Ex04 {
     }
 
     public static int menorNumero(int[] numeros){
-        int menor = 999999999;
+        int menor = numeros[0];
 
         for(int i = 0; i < numeros.length; i++){
             if( numeros[i] < menor){
