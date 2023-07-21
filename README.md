@@ -1,4 +1,4 @@
-# Aula14
+# Exercícios
 <div align="justify">
 
   `Todos os exercícios devem ser resolvidos contendo ao menos um
