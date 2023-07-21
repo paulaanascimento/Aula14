@@ -9,7 +9,7 @@ usuário e realize a somatório de todos os números no intervalo de 1 até o
 número digitado pelo usuário. Exiba o resultado final da somatória.
 
 2. Faça um algoritmo que contenha uma função que receba o nome de um
-usuário e retorne a mensagem Meu nome é <NomeDigitado>.
+usuário e retorne a mensagem `Meu nome é <NomeDigitado>`.
 
 3. Faça um algoritmo que contenha uma função que calcule o IMC de um
 usuário a partir da inserção do seu peso e de sua altura. Exiba a
@@ -25,7 +25,7 @@ suas vendas efetuadas, informar o seu nome, o salário fixo e salário
 no final do mês.
 
 6. Ler uma temperatura em graus Celsius e apresentá-la convertida em
-graus Fahrenheit. A fórmula de conversão é: F=(9*C+160) / 5, sendo F
+graus Fahrenheit. A fórmula de conversão é: `F=(9*C+160) / 5`, sendo F
 a temperatura em Fahrenheit e C a temperatura em Celsius.
 
 7. Elaborar um programa que efetue a apresentação do valor da
